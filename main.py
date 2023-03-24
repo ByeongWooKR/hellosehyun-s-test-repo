@@ -1,5 +1,5 @@
-print("X")
-print("hi world!")
+print('X')
+print('hi world!')
 print('godbye world!')
 
 
